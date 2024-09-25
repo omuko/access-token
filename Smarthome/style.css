@@ -1,0 +1,67 @@
+*{
+    background-color: beige;
+}
+nav{
+    background-color: aliceblue;
+    display: inline;
+    display: flex;
+    font-size: xx-large;
+    margin: 0%;
+    padding: 0px;
+    margin-right:10px ;
+
+
+}
+.home{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: lightgray;
+    padding: 10px;
+    color: blue;
+}
+li{
+    margin: 0px 10px;
+    list-style-type: none;
+    color: blanchedalmond;
+}
+.smarthome{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: lightgray;
+    padding: 10px;
+    color: blue;
+}
+.image{
+    width: 560px;
+    height:260px;
+    margin: right 320px; 
+}
+.call{
+    color: rgb(21, 22, 19);
+    font-size: xx-large;
+
+}
+.welcome{
+    color: darkblue;
+    font-size: xx-large;
+    margin: 10px;
+}
+
+p{
+    margin: 10px;
+    font-size: large;
+    color: brown;
+    font-size: x-large;
+    
+}
+.address{
+    margin: 10px;
+    font-size: medium;
+    color: darkgreen;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
